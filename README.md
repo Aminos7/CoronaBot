@@ -1,5 +1,6 @@
 # CoronaBot
-How we Created an Open-Source COVID-19 Chatbot 
+
+#How we Created an Open-Source COVID-19 Chatbot 
 
 The coronavirus outbreak has major consequences for society worldwide. People are rightly concerned and have many urgent questions. The World Health Organization provides answers to frequently asked questions regarding the coronavirus on their website (link). However, you may have to search for a while before you have found the right answer to your question. It is vital that people are well informed about current measures. This way we can efficiently limit mass spread. A chatbot could perfectly help with this!
 
