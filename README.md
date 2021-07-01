@@ -14,7 +14,9 @@ Now we know what a chatbot is, what it can be used for and what the benefits are
 But how exactly does a chatbot work and how does a chatbot understand language? We will now go through this step by step, starting with the subject of language understanding.
 
 First : Natural Language Processing (NLP)
+
 Second : Neural Networks
+
 Third : Universal Sentence Encoder (USE)
 
 #In this Chatbot
